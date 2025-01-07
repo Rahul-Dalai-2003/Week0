@@ -1,2 +1,1 @@
-# Week0
-pratice for week0
+Hello everyone 
